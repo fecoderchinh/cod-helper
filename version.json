@@ -1,0 +1,17 @@
+{
+  "version": "v0.1.15.060724_beta",
+  "shouldUpdateInfo": true,
+  "label": {
+    "update": true,
+    "text": "Welcome to use Call of Dragons helpers, check update on",
+    "row": 0,
+    "column": 0
+  },
+  "link": {
+    "update": true,
+    "text": "Our Website",
+    "url": "https://google.com",
+    "row": 0,
+    "column": 1
+  }
+}
