@@ -14,8 +14,9 @@
     "row": 0,
     "column": 1
   },
-  "userForBetaTest": {
-    "username": "codhelper",
-    "password": "codhelper"
-  }
+  "stage": {
+    "state": "beta",
+    "access": "free",
+    "response": "Please upgrade the latest version to continue"
+  },
 }
